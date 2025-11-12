@@ -1,7 +1,3 @@
-# 
-
-<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; height: 100vh; text-align: center; page-break-after: always;">
-
 # NOTÍCIAS ESPORTIVAS BRASIL
 
 ## Portal de Notícias Esportivas
@@ -30,7 +26,6 @@ Willian
 
 09 de Novembro de 2025
 
-</div>
 
 ---
 
@@ -58,7 +53,7 @@ https://ramongodoii.github.io/AOP2/
 
 - Estrutura ajustada para GitHub Pages com assets servidos a partir da pasta `static`.
 - Repositório inicializado localmente com _branch_ principal `main`.
-- Deploy realizado via commit `primeiro commit`, sincronizado com o GitHub Pages.
+- Deploy realizado via commit `alterando informacoes`, sincronizado com o GitHub Pages.
 
 **Comando utilizado para publicar alterações:**
 
