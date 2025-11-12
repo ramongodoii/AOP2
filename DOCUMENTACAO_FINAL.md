@@ -46,17 +46,3 @@ https://github.com/ramongodoii/AOP2
 https://ramongodoii.github.io/AOP2/
 
 ---
-
-## Tópico 3 - Atualização de 12/11/2025
-
-**Melhorias publicadas:**
-
-- Estrutura ajustada para GitHub Pages com assets servidos a partir da pasta `static`.
-- Repositório inicializado localmente com _branch_ principal `main`.
-- Deploy realizado via commit `alterando informacoes`, sincronizado com o GitHub Pages.
-
-**Comando utilizado para publicar alterações:**
-
-```
-git push -u origin main
-```
